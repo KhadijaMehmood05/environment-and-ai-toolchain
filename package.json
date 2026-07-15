@@ -1,0 +1,12 @@
+{
+  "name": "environment-and-ai-toolchain",
+  "version": "1.0.0",
+  "description": "AI-assisted development environment with settings form",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["settings", "cursor", "nodejs"],
+  "license": "MIT"
+}

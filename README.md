@@ -12,6 +12,11 @@ This project uses Cursor AI for AI-assisted development and follows clean coding
    ```
 2. Install [Node.js LTS](https://nodejs.org/).
 3. Open the project folder in [Cursor](https://cursor.com/).
+4. Start the settings app:
+   ```bash
+   npm start
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 See [CLAUDE.md](./CLAUDE.md) for coding conventions and project guidelines.
 
