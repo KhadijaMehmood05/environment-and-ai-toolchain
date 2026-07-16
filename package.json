@@ -1,0 +1,12 @@
+{
+  "name": "environment-and-ai-toolchain",
+  "version": "1.0.0",
+  "description": "AI-assisted development environment with a settings form demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
