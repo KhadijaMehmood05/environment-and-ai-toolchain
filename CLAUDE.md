@@ -25,3 +25,10 @@ Follow Conventional Commits format:
 - Understand the project before making changes.
 - Suggest improvements before major modifications.
 - Keep documentation updated.
+## Project Rules Learned
+
+1. All forms must use proper HTML labels connected with input fields using `for` and `id` attributes to support accessibility.
+
+2. Every form input must include validation rules and clear error messages before accepting user input.
+
+3. Before finalizing any AI-generated feature, verify the functionality by running tests or manually checking the expected behavior in the browser.
