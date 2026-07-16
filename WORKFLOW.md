@@ -39,3 +39,6 @@ During verification, the AI-generated project had an issue with port 3000 alread
 ## Conclusion
 
 This comparison shows that effective AI development requires clear specifications, constraints, and verification. A good prompt reduces uncertainty and makes AI-generated code easier to review and maintain.
+## Specific Diff Findings
+
+The branch comparison showed that the main tracked difference was the updated AI workflow documentation and project rules. The implementations used similar file structures, but Round 2 was created with stronger requirements for validation, accessibility, and verification. Round 2 also included a documented review process and testing results, which reduced manual checking compared with Round 1.
